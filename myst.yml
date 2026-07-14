@@ -1,0 +1,11 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  title: Deep Learning Notes
+  description: 我的个人学习笔记
+  authors:
+    - Chisato-reco
+
+site:
+  template: book
