@@ -63,3 +63,7 @@ print(next(gen))  # 输出：第1步：开始执行 → 1
 print(next(gen))  # 输出：第2步：继续执行 → 2
 print(next(gen))  # 输出：第3步：继续执行 → 3
 print(next(gen))  # 输出：第4步：全部完成 → StopIteration 异常
+```
+
+## next() 函数
+`next()` 函数用于获取生成器的下一个值。
